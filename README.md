@@ -1,5 +1,15 @@
 # Configuração do LunarVim
 
+- [Instalando LunarVim](#instalando-lunarvim)
+- [Instalando a Configuração](#instalando-a-configuração)
+- [Arquivos](#arquivos)
+  - [config.lua](#configlua)
+  - [autocmds.lua](#autocmdslua)
+  - [lsp.lua](#lsplua)
+  - [options.lua](#optionslua)
+  - [plugins.lua](#pluginslua)
+  - [whichkey.lua](#whichkeylua)
+
 ## Instalando LunarVim
 
 [Documentação](https://www.lunarvim.org/docs/installation)
