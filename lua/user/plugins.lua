@@ -37,9 +37,6 @@ lvim.plugins = {
         end)
     end
   },
-  {
-    'haringsrob/laravel-dev-tools'
-  },
   { 'jwalton512/vim-blade' },
   { 'neoclide/coc-html' },
   { 'yaegassy/coc-laravel' },

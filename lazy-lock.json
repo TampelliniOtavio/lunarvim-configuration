@@ -17,7 +17,6 @@
   "gitsigns.nvim": { "branch": "main", "commit": "805610a9393fa231f2c2b49cb521bfa413fadb3d" },
   "hop.nvim": { "branch": "master", "commit": "1a1eceafe54b5081eae4cb91c723abd1d450f34b" },
   "indent-blankline.nvim": { "branch": "master", "commit": "9637670896b68805430e2f72cf5d16be5b97a22a" },
-  "laravel-dev-tools": { "branch": "main", "commit": "6b003d075df5a944c3fef765066fcc4f239f7f32" },
   "lazy.nvim": { "branch": "main", "commit": "bef521ac89c8d423f9d092e37b58e8af0c099309" },
   "lir.nvim": { "branch": "master", "commit": "7a9d45de08fecd23a04aca1f96688d744830029e" },
   "lsp_signature.nvim": { "branch": "master", "commit": "2ec2ba23882329c1302dff773b0d3620371d634f" },
