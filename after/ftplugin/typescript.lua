@@ -1,5 +1,5 @@
-local linters = require "lvim.lsp.null-ls.linters"
+-- local linters = require "lvim.lsp.null-ls.linters"
 
-linters.setup {
-  { command = "eslint", filetypes = { "typescript", "typescriptreact" } }
-}
+-- linters.setup {
+--   { command = "eslint", filetypes = { "typescript", "typescriptreact" } }
+-- }
