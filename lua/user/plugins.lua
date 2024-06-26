@@ -78,7 +78,13 @@ lvim.plugins = {
     end,
   },
   { "wuelnerdotexe/vim-astro" },
-  { "wavded/vim-stylus" }
+  { "wavded/vim-stylus" },
+  {
+    "folke/tokyonight.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {},
+  }
 }
 
 -- alvan/vim-closetag config

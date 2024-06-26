@@ -17,3 +17,5 @@ lvim.builtin.telescope.on_config_done = function (telescope)
   telescope_extension(telescope, "neoclip")
   telescope_extension(telescope, "project")
 end
+
+lvim.colorscheme = "tokyonight-moon"
