@@ -19,3 +19,6 @@ lvim.builtin.telescope.on_config_done = function (telescope)
 end
 
 lvim.colorscheme = "tokyonight-moon"
+
+lvim.builtin.nvimtree.setup.filters.dotfiles = true
+table.insert(lvim.builtin.nvimtree.setup.filters.custom, "^.git$")
