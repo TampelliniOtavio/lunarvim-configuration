@@ -22,3 +22,6 @@ lvim.colorscheme = "tokyonight-moon"
 
 lvim.builtin.nvimtree.setup.filters.dotfiles = true
 table.insert(lvim.builtin.nvimtree.setup.filters.custom, "^.git$")
+
+lvim.builtin.lualine.options.theme = "horizon"
+lvim.builtin.lualine.sections.lualine_a = { "fileformat", "mode" }
